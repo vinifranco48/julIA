@@ -27,7 +27,7 @@ Este projeto representou não apenas uma oportunidade para a aplicação prátic
 <h5>O csv com os dados podem ser encontrados nesse link</h5>
 <a href="https://drive.google.com/drive/u/1/folders/1QIvmOuemwuLPVFmmuEWkEsdT0Bx0a24h"> Dados</a>
 <h3>Acesse a julIA no link a baixo</h3>
-<a href="https://t.me/julia_assistente_bot"> Dados</a>
+<a href="https://t.me/julia_assistente_bot"> JulIA</a>
 </div>
 
 
